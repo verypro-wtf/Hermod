@@ -1,0 +1,3 @@
+[submodule "hermod-worker"]
+	path = hermod-worker
+	url = https://github.com/Maxxxxxx-x/hermod-worker.git
